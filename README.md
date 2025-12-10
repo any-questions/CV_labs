@@ -14,7 +14,7 @@ Repo for CV labs
     Нажмите "Переменные среды"
     В системных переменнах найдите Path и добавьте:
 
-C:\opencv\build\x64\vc16\bin
+    C:\opencv\build\x64\vc16\bin
 
 3. Настройка проекта в Visual Studio
 
@@ -25,8 +25,8 @@ C:\opencv\build\x64\vc16\bin
         VC++ Directories → Include Directories → Добавить:
         text
 
-C:\opencv\build\include
-C:\opencv\build\include\opencv2
+    C:\opencv\build\include
+    C:\opencv\build\include\opencv2
 
 Добавьте library-директории:
 
