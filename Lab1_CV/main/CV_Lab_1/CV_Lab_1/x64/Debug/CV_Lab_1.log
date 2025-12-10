@@ -1,0 +1,4 @@
+﻿  CV_Lab_1.cpp
+C:\Users\admin\source\repos\CV_Lab_1\CV_Lab_1.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_1\CV_Lab_1.cpp(49,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CV_Lab_1.vcxproj -> C:\Users\admin\source\repos\CV_Lab_1\x64\Debug\CV_Lab_1.exe
