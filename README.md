@@ -30,15 +30,15 @@ Repo for CV labs
         VC++ Directories → Include Directories → Добавить:
         text
 
-    C:\opencv\build\include
-    C:\opencv\build\include\opencv2
+    C:\opencv\opencv\build\include
+    C:\opencv\opencv\build\include\opencv2
 
 Добавьте library-директории:
 
     VC++ Directories → Library Directories → Добавить:
     text
 
-C:\opencv\build\x64\vc16\lib
+C:\opencv\opencv\build\x64\vc16\lib
 
 Добавьте библиотеки:
 
@@ -49,3 +49,4 @@ opencv_world4xxd.lib
 
 (xx - номер версии для release, например, opencv_world455.lib)
 (xxd - для debug версии)
+opencv_world4120d.lib
