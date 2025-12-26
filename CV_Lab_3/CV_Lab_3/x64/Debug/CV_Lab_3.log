@@ -1,0 +1,68 @@
+﻿  CV_Lab_3.cpp
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(92,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(93,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(146,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(147,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(207,54): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(212,24): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(213,24): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(275,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(276,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(294,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(295,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(313,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(314,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(375,40): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(375,80): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(382,39): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(382,77): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(389,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(389,74): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(398,41): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(398,100): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(401,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(406,40): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(406,98): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(409,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(414,39): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(414,94): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(417,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(445,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(446,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,69): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,69): warning C4244:         with
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,69): warning C4244:         [
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,69): warning C4244:             _Tp=int
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,69): warning C4244:         ]
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,43): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,43): warning C4244:         with
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,43): warning C4244:         [
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,43): warning C4244:             _Tp=int
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(472,43): warning C4244:         ]
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(475,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,73): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,73): warning C4244:         with
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,73): warning C4244:         [
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,73): warning C4244:             _Tp=int
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,73): warning C4244:         ]
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,47): warning C4244:         with
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,47): warning C4244:         [
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,47): warning C4244:             _Tp=int
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(487,47): warning C4244:         ]
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(490,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,73): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,73): warning C4244:         with
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,73): warning C4244:         [
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,73): warning C4244:             _Tp=int
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,73): warning C4244:         ]
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,47): warning C4244:         with
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,47): warning C4244:         [
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,47): warning C4244:             _Tp=int
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(499,47): warning C4244:         ]
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(502,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(461,12): warning C4101: 'match': unreferenced local variable
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(581,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\CV_Lab_3\CV_Lab_3.cpp(582,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CV_Lab_3.vcxproj -> C:\Users\admin\source\repos\CV_Lab_3\x64\Debug\CV_Lab_3.exe
